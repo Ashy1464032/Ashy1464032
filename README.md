@@ -1,4 +1,4 @@
-# My github README
+# My Github README
 - 👋 Hi, I’m @Ashy1464032
 - 👀 I’m interested in programming and computer science
 - 🌱 I’m currently learning C# and .net framework
