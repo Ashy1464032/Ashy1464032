@@ -19,7 +19,7 @@ Jetbrains Software (Intellij Idea, Webstorm, Rider and CLion).
 
 ## Education
 
-GCSE Grades
+### GCSE Grades
 
 ---
 
@@ -27,7 +27,9 @@ Math - Grade 4
 English Language - Grade 6
 Science -  Grade 4 4
 
-College
+---
+
+### College
 
 ---
 
